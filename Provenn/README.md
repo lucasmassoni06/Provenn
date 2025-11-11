@@ -1,16 +1,84 @@
-# React + Vite
+# Provenn
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📋 Resumo do Projeto
 
-Currently, two official plugins are available:
+O **Provenn** é uma plataforma digital moderna criada para conectar microempresas e empresas a profissionais qualificados em um só lugar. Fundada em 2025, a plataforma oferece uma interface intuitiva e responsiva que permite:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Busca e filtragem de profissionais**: Sistema avançado de busca por nome, cargo ou habilidades técnicas
+- **Filtros inteligentes**: Filtragem por área de atuação, localização e tecnologias
+- **Visualização de perfis**: Cards interativos com informações detalhadas de cada profissional
+- **Modal de detalhes**: Visualização completa do perfil profissional incluindo experiências, formação e projetos
+- **Design responsivo**: Interface adaptável para diferentes dispositivos
+- **Modo escuro**: Suporte a tema claro e escuro para melhor experiência do usuário
+- **Carregamento progressivo**: Sistema de "Ver mais" que exibe 8 perfis inicialmente e permite carregar mais progressivamente
 
-## React Compiler
+A plataforma foi desenvolvida utilizando React com Vite, TailwindCSS para estilização e componentes do Radix UI para uma experiência de usuário moderna e acessível.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 👥 Usuários e Senhas
 
-## Expanding the ESLint configuration
+Atualmente, o projeto não possui sistema de autenticação implementado. A plataforma é de acesso público e não requer login ou cadastro para visualizar os perfis profissionais disponíveis.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Instalação do Projeto
+
+Siga os passos abaixo para instalar e executar o projeto localmente:
+
+### Pré-requisitos
+
+- Node.js (versão 18 ou superior)
+- npm ou yarn
+
+### Passo 1: Clonar o repositório
+
+```bash
+git clone https://github.com/lucasmassoni06/Provenn.git
+cd Provenn/Provenn
+```
+
+### Passo 2: Instalar as dependências
+
+Execute o comando abaixo para instalar todas as dependências do projeto :
+
+```bash
+npm install
+```
+
+Todas as dependências necessárias serão instaladas automaticamente a partir do arquivo `package.json`.
+
+### Passo 3: Executar o projeto
+
+```bash
+npm run dev
+```
+
+O projeto estará disponível em `http://localhost:5173` (ou outra porta indicada no terminal).
+
+
+
+## 🔗 Links
+
+### Deploy
+
+*Link do deploy será adicionado quando disponível*
+
+### Repositório
+
+🔗 [https://github.com/lucasmassoni06/Provenn](https://github.com/lucasmassoni06/Provenn)
+
+## 👨‍💻 Integrantes do Projeto
+
+| Nome | RM |
+|------|-----|
+| Felipe Balbino Murad | RM562347 |
+| Lucas Mesquita Massoni | RM561686 |
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **React 19.2.0** - Biblioteca JavaScript para construção de interfaces
+- **Vite 7.2.2** - Build tool e dev server
+- **TailwindCSS 4.17** - Framework CSS utility-first
+- **Radix UI** - Componentes acessíveis e sem estilo
+- **Lucide React** - Biblioteca de ícones
+- **React Icons** - Ícones adicionais
+
