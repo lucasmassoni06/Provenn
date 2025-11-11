@@ -58,7 +58,7 @@ export const ProfileCard = ({ profile, onClick }) => {
           ))}
           {profile.habilidadesTecnicas.length > 3 && (
             <Badge 
-              className="text-xs border border-[#700422] text-[#700422] dark:border-[#E4B34B] dark:text-[#E4B34B]"
+              className="text-xs border bg-[#E4B34B]/30 border-[#700422] text-[#700422] dark:border-[#E4B34B] dark:text-[#E4B34B] hover:bg-[#E4B34B] hover:text-white"
             >
               +{profile.habilidadesTecnicas.length - 3}
             </Badge>
