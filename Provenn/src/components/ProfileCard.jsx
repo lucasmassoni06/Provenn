@@ -51,7 +51,7 @@ export const ProfileCard = ({ profile, onClick }) => {
           {profile.habilidadesTecnicas.slice(0, 3).map((skill) => (
             <Badge 
               key={skill} 
-              className="text-xs bg-[#E4B34B]/20 text-[#700422] border border-[#E4B34B] hover:bg-[#E4B34B] hover:text-white dark:bg-[#700422]/20 dark:text-[#E4B34B] dark:border-[#700422] dark:hover:bg-[#700422] dark:hover:text-[#E4B34B] transition-colors"
+              className="text-xs bg-[#E4B34B]/20 text-[#700422] border border-[#E4B34B] hover:bg-[#E4B34B] hover:text-white dark:bg-[#700422]/20 dark:text-[#E4B34B] dark:border-[#E4B34B] dark:hover:bg-[#700422] dark:hover:text-[#E4B34B] transition-colors"
             >
               {skill}
             </Badge>
