@@ -45,8 +45,11 @@ return (
                 <p className="dark:text-white text-lg">Empregos Conseguidos</p>
             </div>
         </div>
+        <p className="text-lg sm:text-xl lg:text-2xl max-w-3xl dark:text-white">
+            Grandes empresas que contratam aqui!
+        </p>
         <div className="flex justify-center">
-            <div className="w-[600px] sm:w-[700px] lg:w-[900px]">
+            <div className="w-[700px] sm:w-[800px] lg:w-[1000px]">
                 <LogoLoop
                 logos={techLogos}
                 speed={80}
