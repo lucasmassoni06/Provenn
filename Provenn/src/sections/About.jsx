@@ -1,14 +1,15 @@
 import { Users, Briefcase, TrendingUp, Send } from "lucide-react";
 import LogoLoop from "../components/LogoLoop";
-import { SiReact, SiNextdotjs, SiTypescript, SiTailwindcss } from 'react-icons/si';
+import { SiApple, SiMcdonalds, SiPinterest, SiOpenai, SiPorsche } from 'react-icons/si';
 
 function About() {
 
     const techLogos = [
-        { node: <SiReact />, title: "React", href: "https://react.dev" },
-        { node: <SiNextdotjs />, title: "Next.js", href: "https://nextjs.org" },
-        { node: <SiTypescript />, title: "TypeScript", href: "https://www.typescriptlang.org" },
-        { node: <SiTailwindcss />, title: "Tailwind CSS", href: "https://tailwindcss.com" },
+        { node: <SiApple />, title: "Apple", href: "https://apple.com.br" },
+        { node: <SiMcdonalds />, title: "McDonalds", href: "https://mcdonalds.com.br" },
+        { node: <SiOpenai />, title: "Openai", href: "https://www.openia.com.br" },
+        { node: <SiPinterest />, title: "Pinterest", href: "https://pinterest.com.br" },
+        { node: <SiPorsche />, title: "Porsche", href: "https://porsche.com.br" },
     ];
 
 return (
