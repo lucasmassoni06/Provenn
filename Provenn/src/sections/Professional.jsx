@@ -3,6 +3,7 @@ import { SearchBar } from '@/components/SearchBar';
 import { FilterPanel } from '@/components/FilterPanel';
 import { ProfileCard } from '@/components/ProfileCard';
 import { ProfileModal } from '@/components/ProfileModal';
+import { Button } from '@/components/ui/button';
 
 const Professional = () => {
   const [searchTerm, setSearchTerm] = useState('');
@@ -12,6 +13,8 @@ const Professional = () => {
   const [selectedProfile, setSelectedProfile] = useState(null);
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [profiles, setProfiles] = useState([]);
+  // Estado para controlar quantos perfis estão visíveis
+  const [visibleCount, setVisibleCount] = useState(8);
 
   // Load profiles from JSON
   useEffect(() => {
@@ -38,6 +41,22 @@ const Professional = () => {
       return matchesSearch && matchesArea && matchesCidade && matchesTecnologia;
     });
   }, [profiles, searchTerm, selectedArea, selectedCidade, selectedTecnologia]);
+
+  // Resetar contador de perfis visíveis quando filtros ou busca mudarem
+  useEffect(() => {
+    setVisibleCount(8);
+  }, [searchTerm, selectedArea, selectedCidade, selectedTecnologia]);
+
+  // Função para carregar mais perfis
+  const handleLoadMore = () => {
+    setVisibleCount(prev => prev + 8);
+  };
+
+  // Perfis visíveis (limitados pelo contador)
+  const visibleProfiles = filteredProfiles.slice(0, visibleCount);
+  
+  // Verificar se há mais perfis para exibir
+  const hasMoreProfiles = filteredProfiles.length > visibleCount;
 
   const handleCardClick = (profile) => {
     setSelectedProfile(profile);
@@ -69,7 +88,7 @@ const Professional = () => {
 
         {/* Profiles Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-          {filteredProfiles.map((profile) => (
+          {visibleProfiles.map((profile) => (
             <ProfileCard
               key={profile.id}
               profile={profile}
@@ -77,6 +96,18 @@ const Professional = () => {
             />
           ))}
         </div>
+
+        {/* Botão "Ver mais" */}
+        {hasMoreProfiles && (
+          <div className="flex justify-center mt-8">
+            <Button
+              onClick={handleLoadMore}
+              className="bg-[#700422] hover:bg-[#8B4155] text-white dark:bg-[#E4B34B] dark:hover:bg-[#E8BE65] dark:text-[#700422] px-8 py-6 text-base font-semibold transition-all duration-300 hover:scale-105"
+            >
+              Ver mais
+            </Button>
+          </div>
+        )}
 
         {/* Empty State */}
         {filteredProfiles.length === 0 && (
