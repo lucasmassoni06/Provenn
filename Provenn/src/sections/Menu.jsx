@@ -5,7 +5,7 @@ import Trabalhador from '../assets/Trabalhador.png'
 
 function Menu({ darkMode }) {
     return (
-    <div className="px-6 sm:px-10 lg:px-20 py-16">
+    <div className="px-6 sm:px-10 lg:px-20 py-16 mb-20 mt-20">
         <div className="flex flex-col lg:flex-row items-center justify-between gap-10">
             <h1 className="text-4xl sm:text-5xl lg:text-7xl xl:text-8xl font-bold text-center lg:text-left dark:text-white max-w-4xl">
             Bem-vindo ao{" "}

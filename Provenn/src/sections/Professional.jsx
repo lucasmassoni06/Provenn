@@ -64,7 +64,11 @@ const Professional = () => {
   };
 
   return (
+    
     <div id="professional" className="min-h-screen bg-background py-16">
+      <h1 className="text-3xl sm:text-5xl lg:text-6xl  xl:text-7xl font-bold dark:text-white text-center mb-10">
+				Profissionais
+			</h1>
       <main className="container mx-auto px-4 py-8">
         {/* Search and Filters */}
         <div className="mb-8 space-y-4">
@@ -102,7 +106,7 @@ const Professional = () => {
           <div className="flex justify-center mt-8">
             <Button
               onClick={handleLoadMore}
-              className="bg-[#700422] hover:bg-[#8B4155] text-white dark:bg-[#E4B34B] dark:hover:bg-[#E8BE65] dark:text-[#700422] px-8 py-6 text-base font-semibold transition-all duration-300 hover:scale-105"
+              className="bg-[#700422] hover:bg-[#8B4155] text-[#E4B34B] dark:bg-[#E4B34B] dark:hover:bg-[#E8BE65] dark:text-[#700422] px-8 py-6 text-base font-semibold transition-all duration-300 hover:scale-105"
             >
               Ver mais
             </Button>

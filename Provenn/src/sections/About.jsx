@@ -14,7 +14,7 @@ function About() {
 
 return (
     <div className="px-6 sm:px-10 lg:px-20 py-16 bg-white dark:bg-[#8B4155] text-center flex flex-col items-center gap-10">
-        <h1 className="text-3xl sm:text-5xl lg:text-7xl xl:text-8xl font-bold dark:text-white">
+        <h1 className="text-3xl sm:text-5xl lg:text-6xl xl:text-7xl font-bold dark:text-white mt-20">
         Sobre a Provenn
         </h1>
 
@@ -49,7 +49,7 @@ return (
         <p className="text-lg sm:text-xl lg:text-2xl max-w-3xl dark:text-white">
             Grandes empresas que contratam aqui!
         </p>
-        <div className="flex justify-center">
+        <div className="flex justify-center mb-20">
             <div className="w-[700px] sm:w-[800px] lg:w-[1000px]">
                 <LogoLoop
                 logos={techLogos}
