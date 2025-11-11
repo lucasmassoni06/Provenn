@@ -4,6 +4,8 @@ import './index.css'
 import Header from './components/Header'
 import Menu from './sections/Menu'
 import About from './sections/About'
+import Professional from './sections/Professional'
+import { Toaster } from './components/ui/toaster'
 
 function App() {
   const [darkMode, setDarkMode] = useState(false);
@@ -17,6 +19,8 @@ function App() {
       <Header setDarkMode={setDarkMode} darkMode={darkMode}/>
       <Menu darkMode={darkMode}/>
       <About/>
+      <Professional/>
+      <Toaster />
     </>
   )
 }

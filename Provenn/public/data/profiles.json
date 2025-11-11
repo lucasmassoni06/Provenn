@@ -1,0 +1,2232 @@
+[
+  {
+    "id": 1,
+    "nome": "Ana Carolina Silva",
+    "foto": "https://i.pravatar.cc/200?img=1",
+    "cargo": "Engenheira de Software Sênior",
+    "resumo": "Especialista em arquitetura de sistemas distribuídos e cloud computing com 8+ anos de experiência",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Python", "AWS", "Docker", "Kubernetes", "React"],
+    "softSkills": ["Liderança", "Comunicação", "Resolução de problemas"],
+    "experiencias": [
+      {
+        "empresa": "Tech Corp Brasil",
+        "cargo": "Engenheira de Software Sênior",
+        "inicio": "2020-03",
+        "fim": "Atual",
+        "descricao": "Liderança técnica de equipe de 8 desenvolvedores em projetos de migração para cloud"
+      },
+      {
+        "empresa": "StartupXYZ",
+        "cargo": "Desenvolvedora Full Stack",
+        "inicio": "2017-06",
+        "fim": "2020-02",
+        "descricao": "Desenvolvimento de aplicações web escaláveis usando React e Node.js"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2017
+      },
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "UNICAMP",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de Microserviços E-commerce",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Arquitetura de microserviços para plataforma de e-commerce com 1M+ usuários"
+      }
+    ],
+    "certificacoes": ["AWS Solutions Architect", "Kubernetes Administrator"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" },
+      { "idioma": "Espanhol", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Cloud Native", "DevOps", "Arquitetura de Software"]
+  },
+  {
+    "id": 2,
+    "nome": "Bruno Henrique Costa",
+    "foto": "https://i.pravatar.cc/200?img=12",
+    "cargo": "UX/UI Designer Lead",
+    "resumo": "Designer apaixonado por criar experiências digitais intuitivas e acessíveis",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "Adobe XD", "Sketch", "Prototyping", "Design System"],
+    "softSkills": ["Criatividade", "Empatia", "Colaboração"],
+    "experiencias": [
+      {
+        "empresa": "Design Studio RJ",
+        "cargo": "UX/UI Designer Lead",
+        "inicio": "2019-08",
+        "fim": "Atual",
+        "descricao": "Liderança de projetos de design para clientes B2B e B2C, criação de design systems"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "PUC-Rio",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Design System Unificado",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Sistema de design para 5 produtos diferentes mantendo consistência visual"
+      }
+    ],
+    "certificacoes": ["Google UX Design Professional Certificate"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" },
+      { "idioma": "Francês", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Acessibilidade", "Design Systems", "Mobile First"]
+  },
+  {
+    "id": 3,
+    "nome": "Carla Fernandes",
+    "foto": "https://i.pravatar.cc/200?img=5",
+    "cargo": "Data Scientist",
+    "resumo": "Cientista de dados focada em machine learning e análise preditiva",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "SQL", "TensorFlow", "Scikit-learn", "Tableau"],
+    "softSkills": ["Pensamento analítico", "Curiosidade", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "DataTech Solutions",
+        "cargo": "Data Scientist",
+        "inicio": "2018-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de modelos preditivos para otimização de processos industriais"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "PhD em Estatística",
+        "instituicao": "UFMG",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Modelo de Previsão de Demanda",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Sistema de ML para previsão de demanda com 95% de acurácia"
+      }
+    ],
+    "certificacoes": ["Google Data Analytics", "TensorFlow Developer"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Machine Learning", "Deep Learning", "IA Ética"]
+  },
+  {
+    "id": 4,
+    "nome": "Daniel Oliveira Santos",
+    "foto": "https://i.pravatar.cc/200?img=13",
+    "cargo": "Product Manager",
+    "resumo": "Especialista em estratégia de produto e metodologias ágeis",
+    "localizacao": "São Paulo/SP",
+    "area": "Gestão",
+    "habilidadesTecnicas": ["Jira", "Confluence", "Analytics", "SQL", "Figma"],
+    "softSkills": ["Liderança", "Negociação", "Visão estratégica"],
+    "experiencias": [
+      {
+        "empresa": "Fintech Inovadora",
+        "cargo": "Senior Product Manager",
+        "inicio": "2019-05",
+        "fim": "Atual",
+        "descricao": "Gestão de roadmap de produtos financeiros com foco em experiência do usuário"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de Produtos Digitais",
+        "instituicao": "FGV",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Lançamento App de Investimentos",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Liderança do lançamento de aplicativo que alcançou 100k usuários em 3 meses"
+      }
+    ],
+    "certificacoes": ["Certified Scrum Product Owner", "Product Management Certificate"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" },
+      { "idioma": "Alemão", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Product-Led Growth", "FinTech", "UX Research"]
+  },
+  {
+    "id": 5,
+    "nome": "Elena Rodrigues",
+    "foto": "https://i.pravatar.cc/200?img=9",
+    "cargo": "DevOps Engineer",
+    "resumo": "Engenheira DevOps especializada em CI/CD e automação de infraestrutura",
+    "localizacao": "Curitiba/PR",
+    "area": "DevOps",
+    "habilidadesTecnicas": ["Jenkins", "GitLab CI", "Terraform", "Ansible", "AWS"],
+    "softSkills": ["Organização", "Proatividade", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "CloudOps Br",
+        "cargo": "DevOps Engineer",
+        "inicio": "2018-09",
+        "fim": "Atual",
+        "descricao": "Implementação de pipelines CI/CD e automação de infraestrutura cloud"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Computação",
+        "instituicao": "UTFPR",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Automação de Deploy Completa",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Pipeline automatizado que reduziu tempo de deploy de 2h para 15min"
+      }
+    ],
+    "certificacoes": ["AWS DevOps Engineer", "Kubernetes Administrator"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Automação", "Cloud Computing", "Segurança"]
+  },
+  {
+    "id": 6,
+    "nome": "Felipe Almeida",
+    "foto": "https://i.pravatar.cc/200?img=14",
+    "cargo": "Frontend Developer",
+    "resumo": "Desenvolvedor frontend apaixonado por criar interfaces modernas e performáticas",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "TypeScript", "Next.js", "Tailwind CSS", "Jest"],
+    "softSkills": ["Atenção aos detalhes", "Criatividade", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "Web Solutions",
+        "cargo": "Frontend Developer",
+        "inicio": "2020-02",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de SPAs e aplicações Next.js com foco em performance"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "PUCRS",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Dashboard Analytics",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Dashboard em React com visualização de dados em tempo real"
+      }
+    ],
+    "certificacoes": ["React Advanced Patterns"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Performance Web", "Acessibilidade", "Web3"]
+  },
+  {
+    "id": 7,
+    "nome": "Gabriela Martins",
+    "foto": "https://i.pravatar.cc/200?img=10",
+    "cargo": "Marketing Digital Manager",
+    "resumo": "Especialista em estratégias de marketing digital e growth hacking",
+    "localizacao": "Brasília/DF",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Google Analytics", "SEO", "SEM", "Meta Ads", "HubSpot"],
+    "softSkills": ["Criatividade", "Análise de dados", "Persuasão"],
+    "experiencias": [
+      {
+        "empresa": "Growth Marketing Co",
+        "cargo": "Marketing Digital Manager",
+        "inicio": "2019-03",
+        "fim": "Atual",
+        "descricao": "Gestão de campanhas digitais que geraram 300% de ROI para clientes"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Marketing Digital",
+        "instituicao": "UnB",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Campanha Viral SaaS",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Campanha que aumentou conversões em 250% usando growth hacking"
+      }
+    ],
+    "certificacoes": ["Google Ads Certification", "HubSpot Marketing"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" },
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areaInteresses": ["Growth Hacking", "SEO", "Content Marketing"]
+  },
+  {
+    "id": 8,
+    "nome": "Henrique Barbosa",
+    "foto": "https://i.pravatar.cc/200?img=15",
+    "cargo": "Backend Developer",
+    "resumo": "Desenvolvedor backend focado em APIs escaláveis e microsserviços",
+    "localizacao": "Salvador/BA",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Node.js", "Python", "PostgreSQL", "MongoDB", "GraphQL"],
+    "softSkills": ["Resolução de problemas", "Metodologia", "Colaboração"],
+    "experiencias": [
+      {
+        "empresa": "API Solutions",
+        "cargo": "Senior Backend Developer",
+        "inicio": "2018-07",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de APIs RESTful e GraphQL para aplicações enterprise"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UFBA",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "API Gateway Unificada",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Gateway que unifica 15 microsserviços diferentes"
+      }
+    ],
+    "certificacoes": ["Node.js Certified Developer"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Microservices", "API Design", "Database Optimization"]
+  },
+  {
+    "id": 9,
+    "nome": "Isabela Souza",
+    "foto": "https://i.pravatar.cc/200?img=16",
+    "cargo": "Mobile Developer iOS",
+    "resumo": "Desenvolvedora iOS especializada em Swift e SwiftUI",
+    "localizacao": "Florianópolis/SC",
+    "area": "Mobile",
+    "habilidadesTecnicas": ["Swift", "SwiftUI", "UIKit", "CoreData", "Firebase"],
+    "softSkills": ["Perfeccionismo", "Aprendizado rápido", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "Mobile First Studio",
+        "cargo": "iOS Developer",
+        "inicio": "2019-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de apps iOS nativos para diversos clientes"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UFSC",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Fitness",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Aplicativo de fitness com 50k+ downloads na App Store"
+      }
+    ],
+    "certificacoes": ["Apple Certified iOS Developer"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["SwiftUI", "AR/VR", "HealthKit"]
+  },
+  {
+    "id": 10,
+    "nome": "João Pedro Lima",
+    "foto": "https://i.pravatar.cc/200?img=17",
+    "cargo": "Cybersecurity Analyst",
+    "resumo": "Analista de segurança focado em proteção de infraestrutura e pentesting",
+    "localizacao": "São Paulo/SP",
+    "area": "DevOps",
+    "habilidadesTecnicas": ["Kali Linux", "Metasploit", "Wireshark", "SIEM", "Python"],
+    "softSkills": ["Pensamento crítico", "Atenção aos detalhes", "Ética"],
+    "experiencias": [
+      {
+        "empresa": "SecureIT Brasil",
+        "cargo": "Cybersecurity Analyst",
+        "inicio": "2020-04",
+        "fim": "Atual",
+        "descricao": "Análise de vulnerabilidades e testes de penetração para empresas"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Segurança da Informação",
+        "instituicao": "FIAP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Framework de Testes de Segurança",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Framework automatizado para testes de segurança em aplicações web"
+      }
+    ],
+    "certificacoes": ["CEH - Certified Ethical Hacker", "OSCP"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Pentesting", "Threat Intelligence", "Cloud Security"]
+  },
+  {
+    "id": 11,
+    "nome": "Kamila Rezende",
+    "foto": "https://i.pravatar.cc/200?img=20",
+    "cargo": "Scrum Master",
+    "resumo": "Scrum Master certificada com expertise em transformação ágil",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Gestão",
+    "habilidadesTecnicas": ["Jira", "Scrum", "Kanban", "SAFe", "Confluence"],
+    "softSkills": ["Facilitação", "Coaching", "Resolução de conflitos"],
+    "experiencias": [
+      {
+        "empresa": "Agile Transformation",
+        "cargo": "Scrum Master",
+        "inicio": "2018-06",
+        "fim": "Atual",
+        "descricao": "Facilitação de times ágeis e implementação de práticas Scrum"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Administração",
+        "instituicao": "UFRJ",
+        "ano": 2017
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["PSM III", "SAFe Agilist", "Agile Coach"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Agilidade em escala", "Transformação digital", "Coaching"]
+  },
+  {
+    "id": 12,
+    "nome": "Leonardo Castro",
+    "foto": "https://i.pravatar.cc/200?img=18",
+    "cargo": "Full Stack Developer",
+    "resumo": "Desenvolvedor full stack com foco em soluções completas e escaláveis",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["JavaScript", "React", "Node.js", "PostgreSQL", "Docker"],
+    "softSkills": ["Versatilidade", "Autonomia", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "Tech Innovations",
+        "cargo": "Full Stack Developer",
+        "inicio": "2019-09",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento end-to-end de aplicações web modernas"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de E-learning",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Plataforma completa de ensino online com videoconferência integrada"
+      }
+    ],
+    "certificacoes": ["MongoDB Developer"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["JAMstack", "Serverless", "Web Performance"]
+  },
+  {
+    "id": 13,
+    "nome": "Marina Costa",
+    "foto": "https://i.pravatar.cc/200?img=24",
+    "cargo": "Content Strategist",
+    "resumo": "Estrategista de conteúdo focada em storytelling e engajamento",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["SEO", "WordPress", "Google Analytics", "Copywriting", "Canva"],
+    "softSkills": ["Criatividade", "Escrita", "Estratégia"],
+    "experiencias": [
+      {
+        "empresa": "Content Lab",
+        "cargo": "Content Strategist",
+        "inicio": "2019-11",
+        "fim": "Atual",
+        "descricao": "Criação de estratégias de conteúdo que aumentaram engajamento em 200%"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Jornalismo",
+        "instituicao": "PUC-SP",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Blog Corporativo com 1M visitas/mês",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Estratégia de conteúdo que levou blog de zero a 1M de visitas mensais"
+      }
+    ],
+    "certificacoes": ["Content Marketing Institute Certificate"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" },
+      { "idioma": "Espanhol", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Content Marketing", "SEO", "Brand Storytelling"]
+  },
+  {
+    "id": 14,
+    "nome": "Nicolas Ferreira",
+    "foto": "https://i.pravatar.cc/200?img=19",
+    "cargo": "Cloud Architect",
+    "resumo": "Arquiteto de soluções cloud especializado em AWS e Azure",
+    "localizacao": "Curitiba/PR",
+    "area": "DevOps",
+    "habilidadesTecnicas": ["AWS", "Azure", "Terraform", "CloudFormation", "Kubernetes"],
+    "softSkills": ["Visão estratégica", "Liderança técnica", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "Cloud Solutions BR",
+        "cargo": "Cloud Architect",
+        "inicio": "2018-03",
+        "fim": "Atual",
+        "descricao": "Design de arquiteturas cloud resilientes e cost-effective"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UTFPR",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Migração Cloud Multi-região",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Migração de datacenter on-premise para arquitetura multi-região na AWS"
+      }
+    ],
+    "certificacoes": ["AWS Solutions Architect Professional", "Azure Solutions Architect"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Multi-cloud", "FinOps", "Cloud Native"]
+  },
+  {
+    "id": 15,
+    "nome": "Olivia Nascimento",
+    "foto": "https://i.pravatar.cc/200?img=25",
+    "cargo": "QA Engineer",
+    "resumo": "Engenheira de qualidade especializada em automação de testes",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Selenium", "Cypress", "Jest", "Postman", "Jenkins"],
+    "softSkills": ["Atenção aos detalhes", "Metodologia", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "Quality First",
+        "cargo": "QA Engineer",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Implementação de testes automatizados que reduziram bugs em produção em 60%"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "PUCRS",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Framework de Testes E2E",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Framework customizado para testes end-to-end com Cypress"
+      }
+    ],
+    "certificacoes": ["ISTQB Advanced", "Selenium WebDriver"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Test Automation", "CI/CD", "Performance Testing"]
+  },
+  {
+    "id": 16,
+    "nome": "Pedro Henrique Dias",
+    "foto": "https://i.pravatar.cc/200?img=33",
+    "cargo": "Machine Learning Engineer",
+    "resumo": "Engenheiro de ML focado em NLP e visão computacional",
+    "localizacao": "São Paulo/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "TensorFlow", "PyTorch", "NLP", "OpenCV"],
+    "softSkills": ["Inovação", "Pesquisa", "Colaboração"],
+    "experiencias": [
+      {
+        "empresa": "AI Research Lab",
+        "cargo": "ML Engineer",
+        "inicio": "2019-07",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de modelos de NLP e visão computacional para produtos"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em IA",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de Reconhecimento Facial",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Sistema de reconhecimento facial com 98% de acurácia"
+      }
+    ],
+    "certificacoes": ["TensorFlow Developer Certificate", "Deep Learning Specialization"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Deep Learning", "NLP", "Computer Vision"]
+  },
+  {
+    "id": 17,
+    "nome": "Rafaela Gomes",
+    "foto": "https://i.pravatar.cc/200?img=26",
+    "cargo": "Business Analyst",
+    "resumo": "Analista de negócios com foco em processos e otimização",
+    "localizacao": "Brasília/DF",
+    "area": "Gestão",
+    "habilidadesTecnicas": ["SQL", "Excel Avançado", "Power BI", "BPMN", "UML"],
+    "softSkills": ["Análise crítica", "Comunicação", "Negociação"],
+    "experiencias": [
+      {
+        "empresa": "Consulting Group",
+        "cargo": "Business Analyst",
+        "inicio": "2018-10",
+        "fim": "Atual",
+        "descricao": "Análise e otimização de processos de negócio para grandes empresas"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Administração de Empresas",
+        "instituicao": "UnB",
+        "ano": 2018
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["CBAP", "Six Sigma Green Belt"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Process Mining", "Business Intelligence", "Digital Transformation"]
+  },
+  {
+    "id": 18,
+    "nome": "Samuel Rocha",
+    "foto": "https://i.pravatar.cc/200?img=34",
+    "cargo": "React Native Developer",
+    "resumo": "Desenvolvedor mobile especializado em React Native",
+    "localizacao": "Salvador/BA",
+    "area": "Mobile",
+    "habilidadesTecnicas": ["React Native", "JavaScript", "TypeScript", "Redux", "Firebase"],
+    "softSkills": ["Proatividade", "Colaboração", "Aprendizado contínuo"],
+    "experiencias": [
+      {
+        "empresa": "Mobile Apps Co",
+        "cargo": "React Native Developer",
+        "inicio": "2019-04",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de apps cross-platform para iOS e Android"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "UFBA",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Delivery",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "App de delivery com 100k+ downloads nas lojas"
+      }
+    ],
+    "certificacoes": ["React Native Certified"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Mobile Development", "Performance", "UX"]
+  },
+  {
+    "id": 19,
+    "nome": "Tatiana Mendes",
+    "foto": "https://i.pravatar.cc/200?img=27",
+    "cargo": "Tech Recruiter",
+    "resumo": "Recrutadora tech especializada em perfis de tecnologia",
+    "localizacao": "Florianópolis/SC",
+    "area": "Gestão",
+    "habilidadesTecnicas": ["LinkedIn Recruiter", "ATS", "Avaliação técnica", "Headhunting"],
+    "softSkills": ["Comunicação", "Empatia", "Networking"],
+    "experiencias": [
+      {
+        "empresa": "Tech Talent Hunter",
+        "cargo": "Senior Tech Recruiter",
+        "inicio": "2018-02",
+        "fim": "Atual",
+        "descricao": "Recrutamento de talentos tech para startups e empresas de tecnologia"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Psicologia Organizacional",
+        "instituicao": "UFSC",
+        "ano": 2017
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["LinkedIn Certified Professional Recruiter"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Tech Recruiting", "Employer Branding", "People Analytics"]
+  },
+  {
+    "id": 20,
+    "nome": "Ulisses Cardoso",
+    "foto": "https://i.pravatar.cc/200?img=35",
+    "cargo": "Solutions Architect",
+    "resumo": "Arquiteto de soluções com experiência em projetos enterprise",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Microservices", "DDD", "Event Sourcing", "AWS", "Azure"],
+    "softSkills": ["Visão estratégica", "Comunicação", "Liderança"],
+    "experiencias": [
+      {
+        "empresa": "Enterprise Solutions",
+        "cargo": "Solutions Architect",
+        "inicio": "2017-08",
+        "fim": "Atual",
+        "descricao": "Design de arquiteturas escaláveis para grandes corporações"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Engenharia de Software",
+        "instituicao": "IME-USP",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Arquitetura Bancária Digital",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Redesign completo da arquitetura de banco digital"
+      }
+    ],
+    "certificacoes": ["TOGAF Certified", "AWS Solutions Architect Professional"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Enterprise Architecture", "Domain-Driven Design", "Event-Driven Architecture"]
+  },
+  {
+    "id": 21,
+    "nome": "Vanessa Pereira",
+    "foto": "https://i.pravatar.cc/200?img=28",
+    "cargo": "Social Media Manager",
+    "resumo": "Gestora de redes sociais com foco em engajamento e comunidades",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Instagram", "TikTok", "Meta Business Suite", "Canva", "Analytics"],
+    "softSkills": ["Criatividade", "Comunicação", "Tendências"],
+    "experiencias": [
+      {
+        "empresa": "Social Media Agency",
+        "cargo": "Social Media Manager",
+        "inicio": "2019-06",
+        "fim": "Atual",
+        "descricao": "Gestão de redes sociais para marcas B2C com milhões de seguidores"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Publicidade e Propaganda",
+        "instituicao": "ESPM",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["Meta Certified Digital Marketing Associate"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Influencer Marketing", "Community Management", "Video Content"]
+  },
+  {
+    "id": 22,
+    "nome": "Wagner Silva",
+    "foto": "https://i.pravatar.cc/200?img=36",
+    "cargo": "Database Administrator",
+    "resumo": "DBA especializado em otimização e performance de bancos de dados",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Dados",
+    "habilidadesTecnicas": ["PostgreSQL", "MySQL", "Oracle", "MongoDB", "Redis"],
+    "softSkills": ["Atenção aos detalhes", "Resolução de problemas", "Documentação"],
+    "experiencias": [
+      {
+        "empresa": "Data Systems Corp",
+        "cargo": "Senior DBA",
+        "inicio": "2017-05",
+        "fim": "Atual",
+        "descricao": "Administração e otimização de bancos de dados críticos"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Computação",
+        "instituicao": "UFMG",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Otimização de Queries",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Otimização que reduziu tempo de consultas em 80%"
+      }
+    ],
+    "certificacoes": ["PostgreSQL DBA", "Oracle Certified Professional"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Database Performance", "Data Architecture", "High Availability"]
+  },
+  {
+    "id": 23,
+    "nome": "Xavier Monteiro",
+    "foto": "https://i.pravatar.cc/200?img=37",
+    "cargo": "Blockchain Developer",
+    "resumo": "Desenvolvedor blockchain especializado em smart contracts",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Solidity", "Ethereum", "Web3.js", "Hardhat", "React"],
+    "softSkills": ["Inovação", "Pesquisa", "Pensamento crítico"],
+    "experiencias": [
+      {
+        "empresa": "Crypto Innovations",
+        "cargo": "Blockchain Developer",
+        "inicio": "2020-08",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de smart contracts e dApps na blockchain Ethereum"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "ITA",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "DeFi Protocol",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Protocolo DeFi com $10M TVL"
+      }
+    ],
+    "certificacoes": ["Certified Blockchain Developer"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["DeFi", "NFTs", "Web3"]
+  },
+  {
+    "id": 24,
+    "nome": "Yasmin Santos",
+    "foto": "https://i.pravatar.cc/200?img=29",
+    "cargo": "Graphic Designer",
+    "resumo": "Designer gráfica especializada em identidade visual e branding",
+    "localizacao": "Curitiba/PR",
+    "area": "Design",
+    "habilidadesTecnicas": ["Adobe Photoshop", "Illustrator", "InDesign", "Figma", "After Effects"],
+    "softSkills": ["Criatividade", "Atenção aos detalhes", "Comunicação visual"],
+    "experiencias": [
+      {
+        "empresa": "Creative Studio",
+        "cargo": "Senior Graphic Designer",
+        "inicio": "2018-04",
+        "fim": "Atual",
+        "descricao": "Criação de identidades visuais para marcas nacionais e internacionais"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Gráfico",
+        "instituicao": "UTFPR",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Rebranding Completo",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Redesign completo de marca com 50 anos de história"
+      }
+    ],
+    "certificacoes": ["Adobe Certified Professional"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Branding", "Motion Design", "Typography"]
+  },
+  {
+    "id": 25,
+    "nome": "Zilda Araújo",
+    "foto": "https://i.pravatar.cc/200?img=30",
+    "cargo": "Tech Lead",
+    "resumo": "Líder técnica com expertise em arquitetura e gestão de equipes",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Gestão",
+    "habilidadesTecnicas": ["Java", "Spring", "Microservices", "AWS", "Leadership"],
+    "softSkills": ["Liderança", "Mentoria", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "Tech Leaders Inc",
+        "cargo": "Tech Lead",
+        "inicio": "2017-11",
+        "fim": "Atual",
+        "descricao": "Liderança técnica de 3 squads e definição de padrões arquiteturais"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "PUCRS",
+        "ano": 2015
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["AWS Solutions Architect", "Java Certified Architect"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Engineering Management", "Software Architecture", "Team Leadership"]
+  },
+  {
+    "id": 26,
+    "nome": "André Luiz Costa",
+    "foto": "https://i.pravatar.cc/200?img=38",
+    "cargo": "Data Engineer",
+    "resumo": "Engenheiro de dados especializado em pipelines e big data",
+    "localizacao": "São Paulo/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Spark", "Airflow", "Python", "SQL", "Kafka"],
+    "softSkills": ["Organização", "Resolução de problemas", "Documentação"],
+    "experiencias": [
+      {
+        "empresa": "Big Data Solutions",
+        "cargo": "Data Engineer",
+        "inicio": "2019-02",
+        "fim": "Atual",
+        "descricao": "Construção de pipelines de dados processando TB de dados diariamente"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Computação",
+        "instituicao": "Poli-USP",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Pipeline de Dados em Tempo Real",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Pipeline que processa 10TB de dados por dia em tempo real"
+      }
+    ],
+    "certificacoes": ["Databricks Certified Data Engineer"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Big Data", "Real-time Processing", "Data Lakes"]
+  },
+  {
+    "id": 27,
+    "nome": "Beatriz Correia",
+    "foto": "https://i.pravatar.cc/200?img=31",
+    "cargo": "Information Security Manager",
+    "resumo": "Gestora de segurança da informação com foco em compliance",
+    "localizacao": "Brasília/DF",
+    "area": "DevOps",
+    "habilidadesTecnicas": ["ISO 27001", "LGPD", "GDPR", "Risk Management", "Audit"],
+    "softSkills": ["Liderança", "Gestão de riscos", "Compliance"],
+    "experiencias": [
+      {
+        "empresa": "SecureBank",
+        "cargo": "Information Security Manager",
+        "inicio": "2018-07",
+        "fim": "Atual",
+        "descricao": "Gestão de programa de segurança da informação e compliance regulatório"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Segurança da Informação",
+        "instituicao": "FGV",
+        "ano": 2018
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["CISSP", "CISM", "ISO 27001 Lead Auditor"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Cybersecurity Governance", "Privacy", "Compliance"]
+  },
+  {
+    "id": 28,
+    "nome": "Carlos Eduardo Reis",
+    "foto": "https://i.pravatar.cc/200?img=39",
+    "cargo": "Angular Developer",
+    "resumo": "Desenvolvedor especializado em Angular e TypeScript",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Angular", "TypeScript", "RxJS", "NgRx", "Jasmine"],
+    "softSkills": ["Organização", "Atenção aos detalhes", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "Angular Solutions",
+        "cargo": "Senior Angular Developer",
+        "inicio": "2018-09",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de aplicações enterprise com Angular"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "UFRJ",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Portal Corporativo",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Portal enterprise usado por 10k+ funcionários"
+      }
+    ],
+    "certificacoes": ["Angular Certified Developer"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Angular", "State Management", "Microfrontends"]
+  },
+  {
+    "id": 29,
+    "nome": "Débora Pinto",
+    "foto": "https://i.pravatar.cc/200?img=32",
+    "cargo": "UX Researcher",
+    "resumo": "Pesquisadora UX focada em metodologias qualitativas e quantitativas",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "UX/UI",
+    "habilidadesTecnicas": ["User Testing", "Maze", "Hotjar", "Figma", "Analytics"],
+    "softSkills": ["Empatia", "Análise", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "UX Research Lab",
+        "cargo": "UX Researcher",
+        "inicio": "2019-05",
+        "fim": "Atual",
+        "descricao": "Condução de pesquisas que embasaram decisões de produto"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Psicologia",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["Nielsen Norman Group UX Certificate"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["User Research", "Usability Testing", "Design Thinking"]
+  },
+  {
+    "id": 30,
+    "nome": "Eduardo Tavares",
+    "foto": "https://i.pravatar.cc/200?img=40",
+    "cargo": "Site Reliability Engineer",
+    "resumo": "SRE focado em disponibilidade, performance e automação",
+    "localizacao": "São Paulo/SP",
+    "area": "DevOps",
+    "habilidadesTecnicas": ["Prometheus", "Grafana", "Kubernetes", "Python", "Terraform"],
+    "softSkills": ["Proatividade", "Resolução de problemas", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "Reliability First",
+        "cargo": "SRE",
+        "inicio": "2019-08",
+        "fim": "Atual",
+        "descricao": "Garantia de SLAs de 99.99% e automação de operações"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Computação",
+        "instituicao": "ITA",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Observabilidade",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Plataforma de monitoramento centralizada para 100+ serviços"
+      }
+    ],
+    "certificacoes": ["CKA - Certified Kubernetes Administrator"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["SRE", "Observability", "Chaos Engineering"]
+  },
+  {
+    "id": 31,
+    "nome": "Fernanda Moraes",
+    "foto": "https://i.pravatar.cc/200?img=41",
+    "cargo": "Growth Hacker",
+    "resumo": "Especialista em growth com foco em aquisição e retenção",
+    "localizacao": "Florianópolis/SC",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["SQL", "Python", "Google Analytics", "Mixpanel", "A/B Testing"],
+    "softSkills": ["Criatividade", "Análise de dados", "Experimentação"],
+    "experiencias": [
+      {
+        "empresa": "Growth Startup",
+        "cargo": "Growth Hacker",
+        "inicio": "2020-03",
+        "fim": "Atual",
+        "descricao": "Implementação de estratégias que levaram a 500% de crescimento em 1 ano"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Marketing Digital",
+        "instituicao": "UFSC",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["Growth Hacking Certificate"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Growth Hacking", "Product-Led Growth", "Data-Driven Marketing"]
+  },
+  {
+    "id": 32,
+    "nome": "Gustavo Nogueira",
+    "foto": "https://i.pravatar.cc/200?img=42",
+    "cargo": "Ruby on Rails Developer",
+    "resumo": "Desenvolvedor Ruby especializado em aplicações web escaláveis",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Ruby", "Rails", "PostgreSQL", "Redis", "Sidekiq"],
+    "softSkills": ["Pragmatismo", "Qualidade de código", "Colaboração"],
+    "experiencias": [
+      {
+        "empresa": "Rails Shop",
+        "cargo": "Ruby on Rails Developer",
+        "inicio": "2017-10",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento e manutenção de aplicações Rails enterprise"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "PUCRS",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "API Marketplace",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "API que processa milhões de transações por dia"
+      }
+    ],
+    "certificacoes": ["Ruby Association Certified Ruby Programmer"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Ruby", "API Design", "Performance"]
+  },
+  {
+    "id": 33,
+    "nome": "Helena Vieira",
+    "foto": "https://i.pravatar.cc/200?img=43",
+    "cargo": "Technical Writer",
+    "resumo": "Redatora técnica especializada em documentação de APIs e produtos",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Markdown", "Git", "Swagger", "Postman", "Documentation as Code"],
+    "softSkills": ["Clareza", "Organização", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "Docs Company",
+        "cargo": "Senior Technical Writer",
+        "inicio": "2018-06",
+        "fim": "Atual",
+        "descricao": "Criação de documentação técnica que melhorou satisfação de desenvolvedores em 80%"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Letras",
+        "instituicao": "USP",
+        "ano": 2017
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["Google Technical Writing Certificate"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Nativo" },
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areaInteresses": ["Developer Experience", "API Documentation", "Content Strategy"]
+  },
+  {
+    "id": 34,
+    "nome": "Igor Brandão",
+    "foto": "https://i.pravatar.cc/200?img=44",
+    "cargo": "Flutter Developer",
+    "resumo": "Desenvolvedor mobile especializado em Flutter e Dart",
+    "localizacao": "Curitiba/PR",
+    "area": "Mobile",
+    "habilidadesTecnicas": ["Flutter", "Dart", "Firebase", "BLoC", "GetX"],
+    "softSkills": ["Adaptabilidade", "Inovação", "Colaboração"],
+    "experiencias": [
+      {
+        "empresa": "Flutter Apps",
+        "cargo": "Flutter Developer",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de apps cross-platform com Flutter"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UTFPR",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Finanças Pessoais",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "App de controle financeiro com 200k+ downloads"
+      }
+    ],
+    "certificacoes": ["Google Flutter Certified"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Flutter", "Mobile UX", "Cross-platform"]
+  },
+  {
+    "id": 35,
+    "nome": "Juliana Campos",
+    "foto": "https://i.pravatar.cc/200?img=45",
+    "cargo": "Email Marketing Specialist",
+    "resumo": "Especialista em automação de email marketing e nurturing",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Mailchimp", "RD Station", "ActiveCampaign", "HTML/CSS", "Analytics"],
+    "softSkills": ["Criatividade", "Análise de dados", "Copywriting"],
+    "experiencias": [
+      {
+        "empresa": "Email Marketing Pro",
+        "cargo": "Email Marketing Specialist",
+        "inicio": "2019-07",
+        "fim": "Atual",
+        "descricao": "Criação de campanhas que geraram R$5M em revenue"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Marketing",
+        "instituicao": "ESPM-RJ",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["HubSpot Email Marketing Certified"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Email Marketing", "Marketing Automation", "CRM"]
+  },
+  {
+    "id": 36,
+    "nome": "Kevin Borges",
+    "foto": "https://i.pravatar.cc/200?img=46",
+    "cargo": "SAP Consultant",
+    "resumo": "Consultor SAP com expertise em módulos FI/CO",
+    "localizacao": "São Paulo/SP",
+    "area": "Gestão",
+    "habilidadesTecnicas": ["SAP FI", "SAP CO", "ABAP", "S/4HANA", "Fiori"],
+    "softSkills": ["Consultoria", "Gestão de projetos", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "SAP Brasil",
+        "cargo": "SAP Consultant",
+        "inicio": "2017-04",
+        "fim": "Atual",
+        "descricao": "Implementação de SAP para grandes empresas brasileiras"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciências Contábeis",
+        "instituicao": "FEA-USP",
+        "ano": 2016
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["SAP Certified Application Associate"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" },
+      { "idioma": "Alemão", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["SAP S/4HANA", "Digital Transformation", "Finance Automation"]
+  },
+  {
+    "id": 37,
+    "nome": "Larissa Melo",
+    "foto": "https://i.pravatar.cc/200?img=47",
+    "cargo": "BI Analyst",
+    "resumo": "Analista de BI especializada em visualização de dados e dashboards",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Power BI", "Tableau", "SQL", "DAX", "Python"],
+    "softSkills": ["Storytelling com dados", "Análise", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "Business Intelligence Corp",
+        "cargo": "BI Analyst",
+        "inicio": "2019-09",
+        "fim": "Atual",
+        "descricao": "Criação de dashboards executivos que direcionaram decisões estratégicas"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Estatística",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Dashboard Executivo",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Dashboard que consolidou 50+ fontes de dados em uma visão única"
+      }
+    ],
+    "certificacoes": ["Microsoft Certified: Power BI Data Analyst"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Data Visualization", "Business Intelligence", "Analytics"]
+  },
+  {
+    "id": 38,
+    "nome": "Marcelo Freitas",
+    "foto": "https://i.pravatar.cc/200?img=48",
+    "cargo": "Game Developer",
+    "resumo": "Desenvolvedor de jogos especializado em Unity e C#",
+    "localizacao": "Florianópolis/SC",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Unity", "C#", "Unreal Engine", "Game Design", "3D Modeling"],
+    "softSkills": ["Criatividade", "Perseverança", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "Game Studio SC",
+        "cargo": "Game Developer",
+        "inicio": "2018-08",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de jogos mobile e desktop publicados na Steam"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Jogos Digitais",
+        "instituicao": "UFSC",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Jogo Puzzle Adventure",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Jogo indie com 500k+ downloads"
+      }
+    ],
+    "certificacoes": ["Unity Certified Developer"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Game Development", "VR/AR", "Indie Games"]
+  },
+  {
+    "id": 39,
+    "nome": "Natália Azevedo",
+    "foto": "https://i.pravatar.cc/200?img=49",
+    "cargo": "CRM Manager",
+    "resumo": "Gestora de CRM focada em relacionamento e fidelização",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Salesforce", "HubSpot", "Zendesk", "SQL", "Analytics"],
+    "softSkills": ["Relacionamento", "Análise", "Estratégia"],
+    "experiencias": [
+      {
+        "empresa": "Customer Success Co",
+        "cargo": "CRM Manager",
+        "inicio": "2019-04",
+        "fim": "Atual",
+        "descricao": "Implementação de estratégia CRM que aumentou retenção em 40%"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Administração",
+        "instituicao": "PUCRS",
+        "ano": 2018
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["Salesforce Certified Administrator"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Customer Success", "CRM Strategy", "Customer Journey"]
+  },
+  {
+    "id": 40,
+    "nome": "Otávio Lopes",
+    "foto": "https://i.pravatar.cc/200?img=50",
+    "cargo": "Penetration Tester",
+    "resumo": "Pentester especializado em testes de invasão e vulnerabilidades",
+    "localizacao": "São Paulo/SP",
+    "area": "DevOps",
+    "habilidadesTecnicas": ["Burp Suite", "Metasploit", "Kali Linux", "Python", "OWASP"],
+    "softSkills": ["Pensamento crítico", "Ética", "Documentação"],
+    "experiencias": [
+      {
+        "empresa": "Security Testing Lab",
+        "cargo": "Penetration Tester",
+        "inicio": "2020-06",
+        "fim": "Atual",
+        "descricao": "Testes de invasão que identificaram vulnerabilidades críticas"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Segurança da Informação",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Framework de Pentest Automatizado",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Framework que automatiza 70% dos testes de penetração"
+      }
+    ],
+    "certificacoes": ["OSCP", "CEH"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Penetration Testing", "Web Security", "Bug Bounty"]
+  },
+  {
+    "id": 41,
+    "nome": "Paula Regina Silva",
+    "foto": "https://i.pravatar.cc/200?img=51",
+    "cargo": "Vue.js Developer",
+    "resumo": "Desenvolvedora frontend especializada em Vue.js e Nuxt",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Vue.js", "Nuxt.js", "Vuex", "TypeScript", "Tailwind CSS"],
+    "softSkills": ["Organização", "Atenção aos detalhes", "Colaboração"],
+    "experiencias": [
+      {
+        "empresa": "Vue Solutions",
+        "cargo": "Vue.js Developer",
+        "inicio": "2019-10",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de SPAs modernas com Vue.js 3 e Composition API"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "UTFPR",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Dashboard Administrativo",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Dashboard complexo com gerenciamento de estado avançado"
+      }
+    ],
+    "certificacoes": ["Vue.js Certified Developer"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Vue.js", "Composition API", "SSR"]
+  },
+  {
+    "id": 42,
+    "nome": "Quintino Barros",
+    "foto": "https://i.pravatar.cc/200?img=52",
+    "cargo": "AI Product Manager",
+    "resumo": "Product Manager especializado em produtos de inteligência artificial",
+    "localizacao": "São Paulo/SP",
+    "area": "Gestão",
+    "habilidadesTecnicas": ["Machine Learning", "Product Strategy", "Analytics", "Python", "A/B Testing"],
+    "softSkills": ["Visão estratégica", "Inovação", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "AI Products Inc",
+        "cargo": "AI Product Manager",
+        "inicio": "2020-02",
+        "fim": "Atual",
+        "descricao": "Gestão de produtos AI que geraram R$10M ARR"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Produto Digital",
+        "instituicao": "Insper",
+        "ano": 2020
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["AI Product Management Certificate"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["AI Products", "MLOps", "Responsible AI"]
+  },
+  {
+    "id": 43,
+    "nome": "Rodrigo Teixeira",
+    "foto": "https://i.pravatar.cc/200?img=53",
+    "cargo": "Infrastructure Engineer",
+    "resumo": "Engenheiro de infraestrutura especializado em on-premise e cloud",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "DevOps",
+    "habilidadesTecnicas": ["VMware", "AWS", "Linux", "Networking", "Ansible"],
+    "softSkills": ["Resolução de problemas", "Documentação", "Planejamento"],
+    "experiencias": [
+      {
+        "empresa": "Infrastructure Co",
+        "cargo": "Infrastructure Engineer",
+        "inicio": "2017-12",
+        "fim": "Atual",
+        "descricao": "Gestão de infraestrutura híbrida on-premise e cloud"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Redes de Computadores",
+        "instituicao": "UFRJ",
+        "ano": 2017
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["VCP - VMware Certified Professional", "AWS SysOps"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Hybrid Cloud", "Infrastructure as Code", "High Availability"]
+  },
+  {
+    "id": 44,
+    "nome": "Silvia Duarte",
+    "foto": "https://i.pravatar.cc/200?img=54",
+    "cargo": "Motion Designer",
+    "resumo": "Designer de motion especializada em animações e motion graphics",
+    "localizacao": "Salvador/BA",
+    "area": "Design",
+    "habilidadesTecnicas": ["After Effects", "Premiere Pro", "Cinema 4D", "Blender", "Lottie"],
+    "softSkills": ["Criatividade", "Storytelling", "Atenção aos detalhes"],
+    "experiencias": [
+      {
+        "empresa": "Motion Studio",
+        "cargo": "Motion Designer",
+        "inicio": "2019-03",
+        "fim": "Atual",
+        "descricao": "Criação de animações para campanhas de marcas nacionais"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "UFBA",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Campanha Animada Nacional",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Animação que viralizou com 5M+ visualizações"
+      }
+    ],
+    "certificacoes": ["Adobe Certified Professional"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Motion Graphics", "3D Animation", "Video Production"]
+  },
+  {
+    "id": 45,
+    "nome": "Thiago Moreno",
+    "foto": "https://i.pravatar.cc/200?img=55",
+    "cargo": "PHP Developer",
+    "resumo": "Desenvolvedor PHP especializado em Laravel e Symfony",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["PHP", "Laravel", "Symfony", "MySQL", "Redis"],
+    "softSkills": ["Pragmatismo", "Qualidade de código", "Colaboração"],
+    "experiencias": [
+      {
+        "empresa": "PHP Solutions",
+        "cargo": "Senior PHP Developer",
+        "inicio": "2017-07",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de sistemas web complexos com Laravel"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "PUC Minas",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma ERP",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Sistema ERP usado por 100+ empresas"
+      }
+    ],
+    "certificacoes": ["Zend Certified PHP Engineer"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Laravel", "API Development", "Clean Code"]
+  },
+  {
+    "id": 46,
+    "nome": "Úrsula Monteiro",
+    "foto": "https://i.pravatar.cc/200?img=56",
+    "cargo": "Video Editor",
+    "resumo": "Editora de vídeo especializada em conteúdo digital e social media",
+    "localizacao": "Florianópolis/SC",
+    "area": "Design",
+    "habilidadesTecnicas": ["Premiere Pro", "After Effects", "DaVinci Resolve", "Final Cut", "Audition"],
+    "softSkills": ["Criatividade", "Ritmo narrativo", "Atenção aos detalhes"],
+    "experiencias": [
+      {
+        "empresa": "Video Production House",
+        "cargo": "Video Editor",
+        "inicio": "2019-08",
+        "fim": "Atual",
+        "descricao": "Edição de vídeos para YouTube, Instagram e campanhas publicitárias"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Audiovisual",
+        "instituicao": "UFSC",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["Adobe Premiere Pro Certified"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Video Editing", "Color Grading", "Social Media Content"]
+  },
+  {
+    "id": 47,
+    "nome": "Vinícius Alves",
+    "foto": "https://i.pravatar.cc/200?img=57",
+    "cargo": "Go Developer",
+    "resumo": "Desenvolvedor Go especializado em sistemas distribuídos",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Go", "Microservices", "gRPC", "Docker", "Kubernetes"],
+    "softSkills": ["Performance", "Simplicidade", "Eficiência"],
+    "experiencias": [
+      {
+        "empresa": "Go Systems",
+        "cargo": "Go Developer",
+        "inicio": "2020-05",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de microserviços de alta performance em Go"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UFRGS",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Microservices Framework",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Framework para microserviços processando 1M req/s"
+      }
+    ],
+    "certificacoes": ["Go Certified Developer"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Golang", "High Performance", "Distributed Systems"]
+  },
+  {
+    "id": 48,
+    "nome": "Wesley Ramos",
+    "foto": "https://i.pravatar.cc/200?img=58",
+    "cargo": "Customer Success Manager",
+    "resumo": "Gestor de sucesso do cliente focado em retenção e expansão",
+    "localizacao": "São Paulo/SP",
+    "area": "Gestão",
+    "habilidadesTecnicas": ["Salesforce", "Gainsight", "Analytics", "SQL", "Customer Journey"],
+    "softSkills": ["Empatia", "Relacionamento", "Proatividade"],
+    "experiencias": [
+      {
+        "empresa": "SaaS Company",
+        "cargo": "Customer Success Manager",
+        "inicio": "2019-11",
+        "fim": "Atual",
+        "descricao": "Gestão de carteira de R$5M com 95% de retenção"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Administração",
+        "instituicao": "FGV",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["Customer Success Manager Certified"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Customer Success", "SaaS Metrics", "Account Expansion"]
+  },
+  {
+    "id": 49,
+    "nome": "Ximena Pacheco",
+    "foto": "https://i.pravatar.cc/200?img=59",
+    "cargo": "Accessibility Specialist",
+    "resumo": "Especialista em acessibilidade digital e inclusão",
+    "localizacao": "Brasília/DF",
+    "area": "UX/UI",
+    "habilidadesTecnicas": ["WCAG", "ARIA", "Screen Readers", "Accessibility Testing", "HTML/CSS"],
+    "softSkills": ["Empatia", "Advocacy", "Educação"],
+    "experiencias": [
+      {
+        "empresa": "Accessibility First",
+        "cargo": "Accessibility Specialist",
+        "inicio": "2020-09",
+        "fim": "Atual",
+        "descricao": "Consultoria em acessibilidade para empresas e produtos digitais"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Educação Inclusiva",
+        "instituicao": "UnB",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["IAAP CPACC", "Web Accessibility Specialist"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" },
+      { "idioma": "Espanhol", "nivel": "Nativo" }
+    ],
+    "areaInteresses": ["Digital Accessibility", "Inclusive Design", "WCAG Compliance"]
+  },
+  {
+    "id": 50,
+    "nome": "Yuri Cavalcanti",
+    "foto": "https://i.pravatar.cc/200?img=60",
+    "cargo": "Rust Developer",
+    "resumo": "Desenvolvedor Rust focado em sistemas de baixo nível e performance",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Rust", "WebAssembly", "Systems Programming", "Async", "Tokio"],
+    "softSkills": ["Precisão", "Performance", "Aprendizado contínuo"],
+    "experiencias": [
+      {
+        "empresa": "Systems Corp",
+        "cargo": "Rust Developer",
+        "inicio": "2021-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de sistemas de alta performance em Rust"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Computação",
+        "instituicao": "UTFPR",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "High Performance Server",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Servidor que processa 10M requisições/s"
+      }
+    ],
+    "certificacoes": ["Rust Certified Developer"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Rust", "WebAssembly", "Systems Programming"]
+  },
+  {
+    "id": 51,
+    "nome": "Zaira Fonseca",
+    "foto": "https://i.pravatar.cc/200?img=61",
+    "cargo": "SEO Specialist",
+    "resumo": "Especialista em SEO com foco em performance e resultados orgânicos",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["SEO", "Google Search Console", "Ahrefs", "Screaming Frog", "Analytics"],
+    "softSkills": ["Análise de dados", "Estratégia", "Paciência"],
+    "experiencias": [
+      {
+        "empresa": "SEO Agency",
+        "cargo": "SEO Specialist",
+        "inicio": "2018-05",
+        "fim": "Atual",
+        "descricao": "Estratégias SEO que geraram aumento de 500% em tráfego orgânico"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Marketing Digital",
+        "instituicao": "ESPM",
+        "ano": 2018
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["Google Analytics Certified", "SEMrush SEO Toolkit"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Technical SEO", "Content SEO", "Link Building"]
+  },
+  {
+    "id": 52,
+    "nome": "Alberto Santos",
+    "foto": "https://i.pravatar.cc/200?img=62",
+    "cargo": "Kotlin Developer",
+    "resumo": "Desenvolvedor Android nativo especializado em Kotlin",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Mobile",
+    "habilidadesTecnicas": ["Kotlin", "Android", "Jetpack Compose", "Coroutines", "MVVM"],
+    "softSkills": ["Qualidade", "Inovação", "Colaboração"],
+    "experiencias": [
+      {
+        "empresa": "Android Development",
+        "cargo": "Kotlin Developer",
+        "inicio": "2019-06",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de apps Android nativos de alta qualidade"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UFRJ",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App Banking",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Aplicativo bancário com 1M+ usuários ativos"
+      }
+    ],
+    "certificacoes": ["Google Associate Android Developer"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Kotlin Multiplatform", "Jetpack Compose", "Clean Architecture"]
+  },
+  {
+    "id": 53,
+    "nome": "Bianca Moreira",
+    "foto": "https://i.pravatar.cc/200?img=63",
+    "cargo": "Brand Manager",
+    "resumo": "Gestora de marca com experiência em estratégia e posicionamento",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Brand Strategy", "Market Research", "Creative Brief", "Analytics", "Photoshop"],
+    "softSkills": ["Visão estratégica", "Criatividade", "Liderança"],
+    "experiencias": [
+      {
+        "empresa": "Brand Consultancy",
+        "cargo": "Brand Manager",
+        "inicio": "2018-03",
+        "fim": "Atual",
+        "descricao": "Gestão de portfolio de marcas com faturamento de R$100M+"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Branding",
+        "instituicao": "ESPM",
+        "ano": 2018
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["Brand Management Certificate"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" },
+      { "idioma": "Francês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Brand Strategy", "Positioning", "Brand Experience"]
+  },
+  {
+    "id": 54,
+    "nome": "Caio Nunes",
+    "foto": "https://i.pravatar.cc/200?img=64",
+    "cargo": "Elixir Developer",
+    "resumo": "Desenvolvedor Elixir especializado em sistemas real-time",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Elixir", "Phoenix", "OTP", "PostgreSQL", "WebSockets"],
+    "softSkills": ["Inovação", "Eficiência", "Colaboração"],
+    "experiencias": [
+      {
+        "empresa": "Real-Time Systems",
+        "cargo": "Elixir Developer",
+        "inicio": "2020-07",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de sistemas real-time com alta concorrência"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UFMG",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Chat Platform",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Plataforma de chat suportando 100k usuários simultâneos"
+      }
+    ],
+    "certificacoes": ["Elixir Certified Developer"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Elixir", "Functional Programming", "Distributed Systems"]
+  },
+  {
+    "id": 55,
+    "nome": "Diana Farias",
+    "foto": "https://i.pravatar.cc/200?img=65",
+    "cargo": "Product Designer",
+    "resumo": "Product designer focada em design de sistemas e experiência do usuário",
+    "localizacao": "Florianópolis/SC",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "Design Systems", "Prototyping", "User Research", "Sketch"],
+    "softSkills": ["Empatia", "Colaboração", "Pensamento sistêmico"],
+    "experiencias": [
+      {
+        "empresa": "Product Design Studio",
+        "cargo": "Product Designer",
+        "inicio": "2019-01",
+        "fim": "Atual",
+        "descricao": "Design de produtos digitais complexos com foco em experiência do usuário"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design de Produto",
+        "instituicao": "UFSC",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Design System Enterprise",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Design system usado por 200+ designers e desenvolvedores"
+      }
+    ],
+    "certificacoes": ["Nielsen Norman UX Certification"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Product Design", "Design Systems", "Design Ops"]
+  },
+  {
+    "id": 56,
+    "nome": "Enzo Ribeiro",
+    "foto": "https://i.pravatar.cc/200?img=66",
+    "cargo": "Performance Engineer",
+    "resumo": "Engenheiro de performance focado em otimização web e mobile",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Performance Testing", "Lighthouse", "WebPageTest", "CDN", "Optimization"],
+    "softSkills": ["Atenção aos detalhes", "Análise", "Persistência"],
+    "experiencias": [
+      {
+        "empresa": "Performance Lab",
+        "cargo": "Performance Engineer",
+        "inicio": "2020-10",
+        "fim": "Atual",
+        "descricao": "Otimização que melhorou Core Web Vitals em 80% em média"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "PUCRS",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Performance Framework",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Framework de monitoramento de performance automatizado"
+      }
+    ],
+    "certificacoes": ["Google Web Performance Optimization"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Web Performance", "Core Web Vitals", "Optimization"]
+  },
+  {
+    "id": 57,
+    "nome": "Flávia Cardoso",
+    "foto": "https://i.pravatar.cc/200?img=67",
+    "cargo": "Conversion Rate Optimizer",
+    "resumo": "Especialista em otimização de conversão e experimentação",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Google Optimize", "VWO", "A/B Testing", "Analytics", "Hotjar"],
+    "softSkills": ["Análise de dados", "Hipóteses", "Metodologia científica"],
+    "experiencias": [
+      {
+        "empresa": "CRO Agency",
+        "cargo": "CRO Specialist",
+        "inicio": "2019-12",
+        "fim": "Atual",
+        "descricao": "Testes A/B que aumentaram conversões em média 35%"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Estatística",
+        "instituicao": "IME-USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["Google Optimize Certified", "CXL Conversion Optimization"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Conversion Optimization", "Experimentation", "User Psychology"]
+  },
+  {
+    "id": 58,
+    "nome": "Gabriel Mendonça",
+    "foto": "https://i.pravatar.cc/200?img=68",
+    "cargo": "Platform Engineer",
+    "resumo": "Engenheiro de plataforma focado em developer experience",
+    "localizacao": "Curitiba/PR",
+    "area": "DevOps",
+    "habilidadesTecnicas": ["Kubernetes", "Terraform", "GitOps", "Platform Engineering", "Developer Tools"],
+    "softSkills": ["Empatia", "Developer Experience", "Automação"],
+    "experiencias": [
+      {
+        "empresa": "Platform Team",
+        "cargo": "Platform Engineer",
+        "inicio": "2020-11",
+        "fim": "Atual",
+        "descricao": "Criação de plataforma interna que aumentou produtividade em 50%"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UTFPR",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Internal Developer Platform",
+        "link": "https://github.com/lucasmassoni06/Provenn",
+        "descricao": "Plataforma self-service para 100+ desenvolvedores"
+      }
+    ],
+    "certificacoes": ["CKA", "Terraform Associate"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Platform Engineering", "Developer Experience", "Internal Tools"]
+  },
+  {
+    "id": 59,
+    "nome": "Hélia Guimarães",
+    "foto": "https://i.pravatar.cc/200?img=69",
+    "cargo": "Ethical Hacker",
+    "resumo": "Hacker ética especializada em segurança ofensiva",
+    "localizacao": "Salvador/BA",
+    "area": "DevOps",
+    "habilidadesTecnicas": ["Ethical Hacking", "Bug Bounty", "Network Security", "OWASP", "Python"],
+    "softSkills": ["Ética", "Pensamento crítico", "Curiosidade"],
+    "experiencias": [
+      {
+        "empresa": "Security Research",
+        "cargo": "Ethical Hacker",
+        "inicio": "2021-03",
+        "fim": "Atual",
+        "descricao": "Descoberta de vulnerabilidades críticas em programas de bug bounty"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Segurança da Informação",
+        "instituicao": "UFBA",
+        "ano": 2020
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["OSCP", "Bug Bounty Hunter"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Ethical Hacking", "Bug Bounty", "Application Security"]
+  },
+  {
+    "id": 60,
+    "nome": "Igor Vasconcelos",
+    "foto": "https://i.pravatar.cc/200?img=70",
+    "cargo": "Technical Architect",
+    "resumo": "Arquiteto técnico com visão estratégica de tecnologia",
+    "localizacao": "Brasília/DF",
+    "area": "Gestão",
+    "habilidadesTecnicas": ["Enterprise Architecture", "Solution Design", "Cloud Architecture", "Microservices", "API Design"],
+    "softSkills": ["Visão estratégica", "Comunicação", "Liderança técnica"],
+    "experiencias": [
+      {
+        "empresa": "Tech Consultancy",
+        "cargo": "Technical Architect",
+        "inicio": "2017-01",
+        "fim": "Atual",
+        "descricao": "Design de arquiteturas para transformações digitais complexas"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Sistemas Distribuídos",
+        "instituicao": "UnB",
+        "ano": 2016
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["TOGAF 9 Certified", "AWS Solutions Architect Professional"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" },
+      { "idioma": "Francês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Enterprise Architecture", "Digital Transformation", "Technology Strategy"]
+  }
+]
