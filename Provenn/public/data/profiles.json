@@ -2197,8 +2197,8 @@
   },
   {
     "id": 60,
-    "nome": "Igor Vasconcelos",
-    "foto": "https://i.pravatar.cc/200?img=70",
+    "nome": "Flufly",
+    "foto": "../src/assets/curi.jpg",
     "cargo": "Technical Architect",
     "resumo": "Arquiteto técnico com visão estratégica de tecnologia",
     "localizacao": "Brasília/DF",
