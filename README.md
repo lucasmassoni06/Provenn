@@ -64,8 +64,7 @@ https://provenn.vercel.app/
 
 https://github.com/lucasmassoni06/Provenn
 
-=======
-
+---
 
 ## 👨‍💻 Integrantes do Projeto
 
