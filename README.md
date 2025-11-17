@@ -58,11 +58,12 @@ O projeto estará disponível em `http://localhost:5173` (ou outra porta indicad
 
 ### Deploy
 
-(https://provenn.vercel.app/)
+https://provenn.vercel.app/
 
 ### 🔗 Repositório
 
-(https://github.com/lucasmassoni06/Provenn)
+https://github.com/lucasmassoni06/Provenn
+
 =======
 
 
